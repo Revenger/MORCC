@@ -8,8 +8,11 @@ Want a formular type open wheel car no worries, want a truggy or a endurance sty
 # What's currently needed:
 The project is currently looking for people with skills in RC car building or just passionate people in general to help get this off the ground.
 
+Also a webpage designer.
+
 # Updates:
 July 2023
+- Webpage branch made https://revenger.github.io/MORCC/
 - Repo made, planning where to go from here.
 - Need to get something started and people to swing ideas with.
 - This update logs will probably be irregular so check commits once it gets started.
