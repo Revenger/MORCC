@@ -1,0 +1,19 @@
+<div id="rt-error-body">
+  <div class="rt-container">
+    <div class="component-content">
+      <div class="rt-grid-12">
+        <div class="rt-block">
+          <div class="rt-error-box custom-404">
+            <div>
+            <h1 class="error-title title"><?php echo $this->error->getCode(); ?></h1>
+            <h2 class="error-message"><?php echo $this->error->getMessage(); ?></h2>
+            <div class="error-content">
+            <p>The page you requested cannot be found.</p>
+            <p><a href="<?php echo $gantry->baseUrl; ?>"><span>Return to the Homepage</span></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
