@@ -1,19 +1,27 @@
-<div id="rt-error-body">
-  <div class="rt-container">
-    <div class="component-content">
-      <div class="rt-grid-12">
-        <div class="rt-block">
-          <div class="rt-error-box custom-404">
-            <div>
-            <h1 class="error-title title"><?php echo $this->error->getCode(); ?></h1>
-            <h2 class="error-message"><?php echo $this->error->getMessage(); ?></h2>
-            <div class="error-content">
-            <p>The page you requested cannot be found.</p>
-            <p><a href="<?php echo $gantry->baseUrl; ?>"><span>Return to the Homepage</span></a></p>
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+   <head>
+      <meta charset="utf-8">
+      <title>404 Error Page | CodingNepal</title>
+      <link rel="stylesheet" href="404.css">
+   </head>
+   <body>
+      <div id="error-page">
+         <div class="content">
+            <h2 class="header" data-text="404">
+               404
+            </h2>
+            <h4 data-text="Opps! Page not found">
+               Opps! Page not found
+            </h4>
+            <p>
+               Sorry, the page you're looking for doesn't exist. If you think something is broken, report a problem.
+            </p>
+            <div class="btns">
+               <a href="https://www./">return home</a>
             </div>
-          </div>
-        </div>
+         </div>
       </div>
-    </div>
-  </div>
-</div>
+   </body>
+</html>
