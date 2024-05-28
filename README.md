@@ -11,9 +11,4 @@ The project is currently looking for people with skills in RC car building or ju
 Also a webpage designer.
 
 # Updates:
-July 2023
-- Webpage branch made https://revenger.github.io/MORCC/
-- Repo made, planning where to go from here.
-- Need to get something started and people to swing ideas with.
-- This update logs will probably be irregular so check commits once it gets started.
-- Updates will move to it's own file as the project grows.
+Updates are now in the wiki here [Project Updates](Project-Updates)
