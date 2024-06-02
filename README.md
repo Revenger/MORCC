@@ -24,8 +24,26 @@ So people can see there is a update if there are no file changes:
 Last major Uodate: **June 2024**
 * Core has been CAD designed.
 
-# Maintainer info
+# License and Maintainer info
 MORCC project was started and is maintained by Mark Smithdale, AKA Revenger / drguild on online forums.
+
+It is Licensed by Creative Commons (CC BY-NC-SA) which grants you these rights.
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
+
+ BY: credit must be given to the creator.
+ 
+ NC: Only noncommercial uses of the work are permitted.
+ 
+ SA: Adaptations must be shared under the same terms.
+
+ If you do not agree with this license you shouldn't really be using or contributing to this project I am open to hearing why.
+
+ This license is for non commercial use meaning I do not want others making money from my or other peoples work.
+ 
+-----
+
+With this License.
 
 You may not claim MORCC as your own project as I wish to be acknowledged for my work.
 
