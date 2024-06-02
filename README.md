@@ -12,3 +12,7 @@ Also a webpage designer.
 
 # Updates:
 Updates are now in the wiki here [Project Updates](Project-Updates)
+
+So people can see there is a update if there are no file changes:
+Last major Uodate: **June 2024**
+* Core has been CAD designed.
