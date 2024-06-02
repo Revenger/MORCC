@@ -25,10 +25,16 @@ Last major Uodate: **June 2024**
 * Core has been CAD designed.
 
 # Maintainer info
-MORCC project was started and is maintained by Mark Smithdale, AKA Revenger / drguild on online forums
+MORCC project was started and is maintained by Mark Smithdale, AKA Revenger / drguild on online forums.
+
 You may not claim MORCC as your own project as I wish to be acknokedged for my work.
-You are allowed modify MORCC designs in any shape or form as long as changes are shared publically and can be listed in a way that everyone benefits
+
+You are allowed modify MORCC designs in any shape or form as long as changes are shared publically and can be listed in a way that everyone benefits.
+
 You may not sell MORCC or make a profit of other peoples designs, as modules can be created by anyone, they are not your own work.
+
 You MUST include attribution to all the developers of modules you use in a project.
-The above info is not to limit the creativity of MORCC, but to ensure everyone that participates in the design is acknoledged and respected for there contrbutions
+
+The above info is not to limit the creativity of MORCC, but to ensure everyone that participates in the design is acknoledged and respected for there contrbutions.
+
 If anyone is doing something negativly that impacts the MORCC community please let us know.
