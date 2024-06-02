@@ -27,7 +27,7 @@ Last major Uodate: **June 2024**
 # License and Maintainer info
 MORCC project was started and is maintained by Mark Smithdale, AKA Revenger / drguild on online forums.
 
-It is Licensed by Creative Commons (CC BY-NC-SA) which grants you these rights.
+It is Licensed by Creative Commons (CC BY-NC-SA) 4.0 which grants you these rights.
 
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
 
