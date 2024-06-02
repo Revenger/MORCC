@@ -27,7 +27,7 @@ Last major Uodate: **June 2024**
 # Maintainer info
 MORCC project was started and is maintained by Mark Smithdale, AKA Revenger / drguild on online forums.
 
-You may not claim MORCC as your own project as I wish to be acknokedged for my work.
+You may not claim MORCC as your own project as I wish to be acknowledged for my work.
 
 You are allowed modify MORCC designs in any shape or form as long as changes are shared publically and can be listed in a way that everyone benefits.
 
