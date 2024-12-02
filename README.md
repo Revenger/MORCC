@@ -17,7 +17,7 @@ The project is currently looking for people with skills in RC car building or ju
 Also a webpage designer.
 
 # Updates:
-Updates are now in the wiki here [Project Updates](Project-Updates)
+Updates are now in the wiki here [Project Updates](https://github.com/Revenger/MORCC/wiki/Project-Updates)
 
 So people can see there is a update if there are no file changes:
 
