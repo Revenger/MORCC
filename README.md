@@ -9,7 +9,9 @@ Want a formular type open wheel car no worries, want a truggy or a endurance sty
 Main website is at: [Modular Opensource Remote Control Car](https://revenger.github.io/MORCC/)
 
 # Where is MORCC currently:
-As of June 2024 the design for MORCC is undering the first prototype concept car development in CAD, Fusion 360
+As of June 2024 the design for MORCC is undergoing the first prototype concept car development in CAD, Fusion 360.
+April 2025 update: project stalled due to life the last year and it slipped my mind as the core was basically a small a prof of concept part.
+No files have yet been released.
 
 # What's currently needed:
 The project is currently looking for people with skills in RC car building or just passionate people in general to help with the initial CAD designs.
